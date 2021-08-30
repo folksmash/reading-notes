@@ -1,7 +1,8 @@
 ## Reading Notes 
 
 ### Hello,
-My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a continued project as I learn and explore coding. I have an adorable dog named Drax and I've been enjoying Seattle since 2019! [Github Profile](https://github.com/folksmash)
+My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a continued project as I learn and explore coding. I have an adorable dog named Drax and I've been enjoying Seattle since 2019! "💻" 
+- [Github Profile](https://github.com/folksmash)
 
 #### heading type 4
 

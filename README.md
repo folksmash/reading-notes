@@ -18,7 +18,7 @@ Jordan remaked as the sun hit his eyes:
 
 The most important feature in a visual based program is to me are images! With Markdown's functionality and the ease of posting online anyone could run their own motivational website for new coders.
 
-![this is an image] (https://www.walmart.com/ip/Hang-In-There-Baby-Cat-Retro-Motivational-Poster-12x18/257407859)
+![this is an image](https://www.walmart.com/ip/Hang-In-There-Baby-Cat-Retro-Motivational-Poster-12x18/257407859)
 
 
 

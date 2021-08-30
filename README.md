@@ -19,6 +19,7 @@ Jordan remaked as the sun hit his eyes:
 The most important feature in a visual based program is to me are images! With Markdown's functionality and the ease of posting online anyone could run their own motivational website for new coders. 
 
 
+![this is an image](https://user-images.githubusercontent.com/89801472/131394279-4a5127aa-8f61-4ac8-a949-0930c31edadd.jpeg)
 
 
 

@@ -1,6 +1,6 @@
 # Day 1 notes
 
-Marktdown is a text based display control that allows you to *simply* creat complicated web pages and then host them immediately through a site called [GitHub](https://github.com/)
+Markdown is a text based display control that allows you to *simply* creat complicated web pages and then host them immediately through a site called [GitHub](https://github.com/)
 
 Markdown makes it easy to stylize and organize the information you want to show the world online. It reminds me of some of the functionality of Myspace.
 

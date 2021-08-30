@@ -16,9 +16,7 @@ Formatting doesn't end with just lists. you can add quotes
 Jordan remaked as the sun hit his eyes:
 > so this is what before 11am looks like, hmmm.
 
-The most important feature in a visual based program is to me are images! With Markdown's functionality and the ease of posting online anyone could run their own motivational website for new coders.
-
-![this is an image](https://www.gettyimages.com/detail/illustration/peeping-tom-royalty-free-illustration/125912653?adppopup=true)
+The most important feature in a visual based program is to me are images! With Markdown's functionality and the ease of posting online anyone could run their own motivational website for new coders. 
 
 
 

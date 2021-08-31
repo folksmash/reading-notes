@@ -6,6 +6,17 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 
 #### heading type 4
 
+#### Reading 
+* reading 1
+* reading 2
+* reading 3
+* reading 4
+* reading 5
+* reading 7
+* reading 8
+* reading 9
+* reading 10
+
 To me growth mindset encompasses you look at things. Although what we are learning is a niche skillset and can be difficult to learn its important to remember it takes time. Although many people may have background info or be *ahead* of you there is no race to learning this information. 
 
 I want to remind myself through this course:

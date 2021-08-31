@@ -11,4 +11,4 @@ These features will assist you in completing finished codes. When hand drawing t
 ## Command Lines
 Command lines are the direction you give your code. Through the use of a terminal or text editing tool you will assign the structure of a program or webpage line by line. This will feature options adjusting the visuals of a website, finding files on your computer, or adjusting existing programs with new code. When finding specific files you may need to know the name and type of file you are looking for to locate it via a command prompt. 
 
-[BACK TO HOME](https://folksmash.github.io/reading-notes/)
+  [BACK TO HOME](https://folksmash.github.io/reading-notes/)

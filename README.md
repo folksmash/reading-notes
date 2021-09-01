@@ -7,10 +7,10 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 ### heading type 4
 
 #### Reading
-* [reading 1](https://folksmash.github.io/reading-notes/markdown.md)
-* [reading 2](https://folksmash.github.io/reading-notes/computersetup.md)
-* [reading 3](https://folksmash.github.io/reading-notes/revisions-cloud.md)
-* [reading 4](https://folksmash.github.io/reading-notes/html-structure.md)
+* [reading 1](https://folksmash.github.io/reading-notes/markdown)
+* [reading 2](https://folksmash.github.io/reading-notes/computersetup)
+* [reading 3](https://folksmash.github.io/reading-notes/revisions-cloud)
+* [reading 4](https://folksmash.github.io/reading-notes/html-structure)
 * reading 5
 * reading 7
 * reading 8

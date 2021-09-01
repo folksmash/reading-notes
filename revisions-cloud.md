@@ -15,3 +15,5 @@ Data that is committed is available on the database but not applied to the appli
 Working in these systems can be drastically different depending on your operating system. I am a windows user and required a few additional steps to set up my sandbox. Editing tools use graphical user interfaces that may arrange the data in a more user friendly view. 
 
 There are multiple steps and commands associated with establishing a proper digital work space and checking your data. These commands start with 'Git' and follow some logical command prompts like config (configuration) list is to check the current confirguation and commands like 'add filename' to add files. The commands made in on your computer will link to the Git data stored online allowing you to push adjusted code from your desktop anywhere to the unified projects online.
+
+[BACK TO HOME](https://folksmash.github.io/reading-notes/)

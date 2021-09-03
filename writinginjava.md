@@ -6,3 +6,4 @@ Functions are part of the foundation of JavaScript. Functions help define specif
 
 These are strings of code that resolves a value. Expressions include primary expressions, string, and logical expressions. 
 
+[BACK TO HOME](https://folksmash.github.io/reading-notes/)

@@ -4,7 +4,7 @@
 My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a continued project as I learn and explore coding. I have an adorable dog named Drax and I've been enjoying Seattle since 2019! 💻 
 - [Github Profile](https://github.com/folksmash)
 
-### heading type 4
+### heading type 3
 
 #### Reading
 * [reading 1](https://folksmash.github.io/reading-notes/markdown)
@@ -13,7 +13,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 4](https://folksmash.github.io/reading-notes/html-structure)
 * [reading 5](https://folksmash.github.io/reading-notes/CSS) 
 * [reading 6](https://folksmash.github.io/reading-notes/javasscript)
-* [reading 7]
+* [reading 7](https://folksmash.github.io/reading-notes/writinginjava)
 * reading 8
 * reading 9
 

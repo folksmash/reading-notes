@@ -11,11 +11,11 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 2](https://folksmash.github.io/reading-notes/computersetup)
 * [reading 3](https://folksmash.github.io/reading-notes/revisions-cloud)
 * [reading 4](https://folksmash.github.io/reading-notes/html-structure)
-* reading 5
-* reading 7
+* [reading 5](https://folksmash.github.io/reading-notes/CSS) 
+* [reading 6](https://folksmash.github.io/reading-notes/javasscript)
+* [reading 7]
 * reading 8
 * reading 9
-* reading 10
 
 To me growth mindset encompasses you look at things. Although what we are learning is a niche skillset and can be difficult to learn its important to remember it takes time. Although many people may have background info or be *ahead* of you there is no race to learning this information.
 

@@ -6,7 +6,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 
 ### heading type 3
 
-#### Reading CODE102
+#### Code 102 Reading Notes
 * [reading 1](https://folksmash.github.io/reading-notes/markdown)
 * [reading 2](https://folksmash.github.io/reading-notes/computersetup)
 * [reading 3](https://folksmash.github.io/reading-notes/revisions-cloud)
@@ -16,7 +16,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 7](https://folksmash.github.io/reading-notes/writinginjava)
 * [reading 8](https://folksmash.github.io/reading-notes/operatorsloops)
 
-#### Reading Code201
+#### Code 201 Reading Notes
 * reading 1
 * reading 2
 * reading 3

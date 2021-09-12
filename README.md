@@ -6,7 +6,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 
 ### heading type 3
 
-#### Reading
+#### Reading CODE102
 * [reading 1](https://folksmash.github.io/reading-notes/markdown)
 * [reading 2](https://folksmash.github.io/reading-notes/computersetup)
 * [reading 3](https://folksmash.github.io/reading-notes/revisions-cloud)
@@ -15,7 +15,23 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 6](https://folksmash.github.io/reading-notes/javasscript)
 * [reading 7](https://folksmash.github.io/reading-notes/writinginjava)
 * [reading 8](https://folksmash.github.io/reading-notes/operatorsloops)
+
+#### Reading Code201
+* reading 1
+* reading 2
+* reading 3
+* reading 4
+* reading 5
+* reading 6
+* reading 7
+* reading 8
 * reading 9
+* reading 10
+* reading 11
+* reading 12
+* reading 13
+* reading 14
+* reading 15
 
 To me growth mindset encompasses you look at things. Although what we are learning is a niche skillset and can be difficult to learn its important to remember it takes time. Although many people may have background info or be *ahead* of you there is no race to learning this information.
 

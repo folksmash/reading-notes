@@ -17,7 +17,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 8](https://folksmash.github.io/reading-notes/operatorsloops)
 
 #### Code 201 Reading Notes
-* reading 1
+* [reading 1](https://folksmash.github.io/reading-notes/class-01)
 * reading 2
 * reading 3
 * reading 4

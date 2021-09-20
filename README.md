@@ -22,7 +22,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 3](https://folksmash.github.io/reading-notes/class-03)
 * [reading 4](https://folksmash.github.io/reading-notes/class-04)
 * [reading 5](https://folksmash.github.io/reading-notes/class-05)
-* reading 6
+* [reading 6](https://folksmash.github.io/reading-notes/class-06)
 * reading 7
 * reading 8
 * reading 9

@@ -24,7 +24,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 5](https://folksmash.github.io/reading-notes/class-05)
 * [reading 6](https://folksmash.github.io/reading-notes/class-06)
 * [reading 7](https://folksmash.github.io/reading-notes/class-07)
-* reading 8
+* [reading 8](https://folksmash.github.io/reading-notes/class-08)
 * reading 9
 * reading 10
 * reading 11

@@ -4,7 +4,7 @@
 My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a continued project as I learn and explore coding. I have an adorable dog named Drax and I've been enjoying Seattle since 2019! 💻 
 - [Github Profile](https://github.com/folksmash)
 
-### heading type 3
+### Courses:
 
 #### Code 102 Reading Notes
 * [reading 1](https://folksmash.github.io/reading-notes/markdown)
@@ -31,7 +31,9 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 12](https://folksmash.github.io/reading-notes/class-12)
 * [reading 13](https://folksmash.github.io/reading-notes/class-13)
 * [reading 14](https://folksmash.github.io/reading-notes/class-14)
-* reading 15
+
+#### Code 301 Reading Notes
+* reading 1
 
 To me growth mindset encompasses you look at things. Although what we are learning is a niche skillset and can be difficult to learn its important to remember it takes time. Although many people may have background info or be *ahead* of you there is no race to learning this information.
 

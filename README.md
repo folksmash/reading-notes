@@ -40,6 +40,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 5](https://folksmash.github.io/reading-notes/301class-04)
 * [reading 6](https://folksmash.github.io/reading-notes/301class-05)
 * [reading 7](https://folksmash.github.io/reading-notes/301class-06)
+* [reading 8](https://folksmash.github.io/reading-notes/301class-07)
 
 
 To me growth mindset encompasses you look at things. Although what we are learning is a niche skillset and can be difficult to learn its important to remember it takes time. Although many people may have background info or be *ahead* of you there is no race to learning this information.

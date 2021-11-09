@@ -33,8 +33,8 @@
 
 * Programmers use specific vocabularies to form syntax that the computer follows directly
 * JavaScript can be used in multiple ways and is able to perform more actions than HTML or CSS
-* JS allows for loops with various responses 
-* Programmers are able to set scripts based on the input of the user 
+* JS allows for loops with various responses
+* Programmers are able to set scripts based on the input of the user
 * JS is kept on it's own page when writing code and linked back into the HTML page with a script
 * This allows for multiple functions or prompts to exist on one page without clutter and overlapping
 

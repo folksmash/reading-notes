@@ -48,7 +48,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 13](https://folksmash.github.io/reading-notes/301class-12)
 
 #### Code 401 Reading Notes
-* [reading 1](----)
+* [the growth mindset](----)
 * [reading 2](----)
 * [reading 3](----)
 * [reading 4](----)

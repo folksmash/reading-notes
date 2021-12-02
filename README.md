@@ -51,7 +51,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [the growth mindset](----)
 * [reading 2](----)
 * [reading 3](https://folksmash.github.io/reading-notes/401class3)
-* [reading 4](----)
+* [reading 4](https://folksmash.github.io/reading-notes/401class4)
 * [reading 5](----)
 * [reading 6](----)
 * [reading 7](----)

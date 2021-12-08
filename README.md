@@ -55,7 +55,7 @@ My name is Jordan Folk and I'm a student at Code Fellows in Seattle. Below is a 
 * [reading 5](----)
 * [reading 6](----)
 * [reading 7](----)
-* [reading 8](----)
+* [reading 8](https://folksmash.github.io/reading-notes/401class8)
 * [reading 9](----)
 * [reading 10](----)
 * [reading 11](----)
